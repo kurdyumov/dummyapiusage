@@ -1,0 +1,42 @@
+[
+    {
+        "id": 101,
+        "title": "iPhone 13 Pro Max",
+        "price": "1099",
+        "stock": "32",
+        "rating": "4",
+        "description": "6,7-дюймовый Super Retina XDR дисплей, A15 Bionic чип, тройная 12-мегапиксельная камера, поддержка 5G",
+        "brand": "Apple",
+        "category": "smartphones"
+    },
+    {
+        "id": 102,
+        "title": "iPhone 13",
+        "price": "799",
+        "stock": "12",
+        "rating": "4.68",
+        "description": "6,1-дюймовый Super Retina XDR дисплей, тот же A15 Bionic чип, двойная 12-мегапиксельная камера, также поддержка 5G",
+        "brand": "Apple",
+        "category": "smartphones"
+    },
+    {
+        "id": 103,
+        "title": "iPhone SE (второго поколения)",
+        "price": "399",
+        "stock": "54",
+        "rating": "3.84",
+        "description": "4,7-дюймовый Retina HD дисплей, A13 Bionic чип, одинарная 12-мегапиксельная камера, Touch ID",
+        "brand": "Apple",
+        "category": "smartphones"
+    },
+    {
+        "id": 104,
+        "title": "iPhone 12 Mini",
+        "price": "699",
+        "stock": "14",
+        "rating": "4.87",
+        "description": "5,4-дюймовый Super Retina XDR дисплей, A14 Bionic чип, двойная 12-мегапиксельная камера",
+        "brand": "Apple",
+        "category": "smartphones"
+    }
+]
